@@ -1,0 +1,25 @@
+[debug] [2024-10-16T22:51:31.579Z] ----------------------------------------------------------------------
+[debug] [2024-10-16T22:51:31.582Z] Command:       D:\NodeJS\node.exe C:\Users\evanm\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-10-16T22:51:31.582Z] CLI Version:   13.22.1
+[debug] [2024-10-16T22:51:31.582Z] Platform:      win32
+[debug] [2024-10-16T22:51:31.582Z] Node Version:  v20.17.0
+[debug] [2024-10-16T22:51:31.582Z] Time:          Wed Oct 16 2024 15:51:31 GMT-0700 (Pacific Daylight Time)
+[debug] [2024-10-16T22:51:31.582Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-16T22:51:31.634Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-16T22:51:31.634Z] > authorizing via signed-in user (evanmcpherson89@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\CS55.13\week7\codelab-friendlyeats-web
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
